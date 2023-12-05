@@ -13,6 +13,13 @@ This is the official implementation of the ACM MM 2023 paper "NPF-200: A Multi-M
 The dataset (NPF200) can be downloaded from [here](https://figshare.com/s/9b45d1bdc790db3ee843) .
 
 ## Some Results
+<center>
+    <img src="https://github.com/Yangziyu/NPF200/blob/main/img/results1.png">
+</center>
+<figure class="half">
+    <img src="https://github.com/Yangziyu/NPF200/blob/main/img/results2.png">
+    <img src="https://github.com/Yangziyu/NPF200/blob/main/img/results3.png">
+</figure>
 
 
 ## Video Demo

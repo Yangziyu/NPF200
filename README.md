@@ -1,4 +1,10 @@
 # NPF-200: A Multi-Modal Eye Fixation Dataset and Method for Non-Photorealistic Videos
+<figure class="third">
+    <img src="https://github.com/Yangziyu/NPF200/blob/main/img/teaser1.jpg">
+    <img src="https://github.com/Yangziyu/NPF200/blob/main/img/teaser2.jpg">
+    <img src="https://github.com/Yangziyu/NPF200/blob/main/img/teaser3.jpg">
+</figure>
+
 
 ## Description
 This is the official implementation of the ACM MM 2023 paper "NPF-200: A Multi-Modal Eye Fixation Dataset and Method for Non-Photorealistic Videos". Paper can be downloaded from [here](https://arxiv.org/pdf/2308.12163v1.pdf).
@@ -7,6 +13,7 @@ This is the official implementation of the ACM MM 2023 paper "NPF-200: A Multi-M
 The dataset (NPF200) can be downloaded from [here](https://figshare.com/s/9b45d1bdc790db3ee843) .
 
 ## Some Results
+
 
 ## Video Demo
 Please see our [video demo](https://www.youtube.com/watch?v=r4XWogTQEzc) on Youtube.

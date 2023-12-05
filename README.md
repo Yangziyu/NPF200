@@ -33,9 +33,9 @@ Please see our [video demo](https://www.youtube.com/watch?v=r4XWogTQEzc) on Yout
 ## Pretrained Models
 
 ## Train
-'''
+```python
 python train.py --dataset [myDataset/DHF1KDataset] --model_val_path YOUR_MODEL_SAVE_PATH --load_weight PRETRAINED_MODEL_PATH
-'''
+```
 
 ## Test
 

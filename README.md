@@ -34,6 +34,11 @@ Please see our [video demo](https://www.youtube.com/watch?v=r4XWogTQEzc) on Yout
 
 ## Train
 
+## Test
+
+## License
+Software Copyright License for non-commercial scientific research purposes. Please read carefully the terms and conditions in the LICENSE file and any accompanying documentation before you download and/or use the NPF-200 dataset, model and software, (the "Data & Software"), including code, images, videos, textures, software, scripts, and animations. By downloading and/or using the Data & Software (including downloading, cloning, installing, and any other use of the corresponding github repository), you acknowledge that you have read these terms and conditions, understand them, and agree to be bound by them. If you do not agree with these terms and conditions, you must not download and/or use the Data & Software. Any infringement of the terms of this agreement will automatically terminate your rights under this License.
+
 
 
 
